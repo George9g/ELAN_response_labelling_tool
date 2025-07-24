@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+# Ignorar archivos de proyecto de R
+*.Rproj
+
+# Ignorar archivos HTML
+*.html
+
+# Ignorar archivos PDF
+*.pdf
