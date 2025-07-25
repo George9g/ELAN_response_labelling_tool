@@ -119,6 +119,18 @@ The [`test`](test) directory includes an example input file ([`example_input.txt
 
 ---
 
+## Akwnoledments
+
+Collaboration in the project “Supporting Language Development in the First Cycle of Early Childhood Education: New Indicators, Contexts, and Assessment Tools (ADELIN)“, with special support from PhD. Marta Casla and PhD. Florencia Alam
+
+---
+
+## Contacts
+
+Technical contact: [Jorge García de la Plaza](jorge.garciadelaplaza@estudiante.uam.es)
+Project responsible: [PhD. Marta Casla](marta.casla@uam.es)
+
+---
 ## License
 
 This project is licensed under the **GNU General Public License v3.0**.
