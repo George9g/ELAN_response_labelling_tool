@@ -115,7 +115,7 @@ emission     duration   response   overlap
 
 ## Testing
 
-The `tests` directory includes an example input file (`example.txt`) along with its corresponding expected output. This allows users to validate that the tool is functioning correctly on their system before applying it to new data.
+The `tests` directory includes an example input file ([`example_input.txt`](test/input_test/example_input.txt) along with its corresponding expected output. This allows users to validate that the tool is functioning correctly on their system before applying it to new data.
 
 ---
 
