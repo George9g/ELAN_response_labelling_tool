@@ -124,7 +124,7 @@ The [`test`](test) directory includes an example input file ([`example_input.txt
 
 ## Akwnoledments
 
-Collaboration in the project “Supporting Language Development in the First Cycle of Early Childhood Education: New Indicators, Contexts, and Assessment Tools (ADELIN)“, with special support from PhD. Marta Casla and PhD. Florencia Alam.
+Collaboration in the project “Supporting Language Development in the First Cycle of Early Childhood Education: New Indicators, Contexts, and Assessment Tools (ADELIN)“, with special support from PhD. Marta Casla, PhD. Florencia Alam and PhD. Ana Moreno.
 
 ---
 
