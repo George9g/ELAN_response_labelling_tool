@@ -127,7 +127,7 @@ Collaboration in the project “Supporting Language Development in the First Cyc
 
 ## Contacts
 
-Technical contact: [Jorge García de la Plaza](jorge.garciadelaplaza@estudiante.uam.es)
+Technical contact: [Jorge García de la Plaza](jorge.garciadelaplaza@estudiante.uam.es)  
 Project responsible: [PhD. Marta Casla](marta.casla@uam.es)
 
 ---
