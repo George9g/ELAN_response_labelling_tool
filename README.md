@@ -1,7 +1,7 @@
 # ELAN Response Labelling Tool
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16421302.svg)](https://doi.org/10.5281/zenodo.16421302)
-
+Citation: "George9g. (2025). George9g/ELAN_response_labelling_tool: response_labelling_tool_v1.0.0 (Version v1.0.0). Zenodo. https://doi.org/10.5281/ZENODO.16421302"
 
 This R script provides a tool for processing TSV files exported from **ELAN** (EUDICO Linguistic Annotator). It is designed for researchers analyzing spoken interactions, particularly in environments where identifying the **response types** based on speech direction to speaker emissions is critical.
 
