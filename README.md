@@ -1,4 +1,5 @@
 # ELAN Response Labelling Tool
+Funding reference for ADELIN project: PID2021-123907NB-I00
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16421302.svg)](https://doi.org/10.5281/zenodo.16421302)  
 Citation: "García de la Plaza, J. (2025). George9g/ELAN_response_labelling_tool: response_labelling_tool_v1.0.0 (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.16421302"
